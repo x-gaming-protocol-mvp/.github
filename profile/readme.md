@@ -23,18 +23,18 @@
 
 
 ## ⚙️ Функционал кошелька
-Полностью другой flow авторизации:
-Вход и создания аккаунта через телеграм
+**Полностью другой flow авторизации:**<br>
+_- вход и создания аккаунта через телеграм_
 
 ### Экраны
-Главный экран, Balanc в USD, total убираем (Вместо списка токенов блок про дивиденды и $M)
-Настройки: Никнейм, аватарка, Язык, Themes
-Withdraw -> USDT, TON -> Address, Amount —> Success Notify
-Deposit —> BNB, ETH, BTC, USDT, TRX, TON + Amount —> Address, Rate, QR —> Success Modal
-Transfer (P2P) -> Address, Amount —> Success Notify
-About
-Catalog (2 наших приложения classic, mines и запрос на бекенд на разовый токен)
-История пополнений / выводов / трансферов / ставок
+`Главный экран` — баланс в USD, Total убираем (Вместо списка токенов блок про дивиденды и $M)<br>
+`Настройки` — Никнейм, аватарка, Язык, Themes<br>
+`Withdraw` — _USDT, TON_ **→** _Address, Amount_ **→** _Success Notify_<br>
+`Deposit` — _BNB, ETH, BTC, USDT, TRX, TON_ **+** _Amount_ **→** _Address, Rate, QR_ **→** _Success Modal_<br>
+`Transfer (P2P)` — _Address, Amount_ **→** _Success Notify_<br>
+`About` — ссылки на наши ресурсы / поддержка / docs<br>
+`Catalog` — 2 наших приложения **classic**, **mines** и запрос на бекенд на разовый токен<br>
+`Activity` — пополнения / выводы / трансферы / ставки
 
 ### Нюансы
 ## Дивиденды
