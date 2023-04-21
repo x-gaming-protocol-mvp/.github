@@ -1,7 +1,7 @@
-# ⚡X-Gaming Protocol — Alfa
+# ⚡X-Gaming Protocol — Alpha
 
 ## 🔗 Ссылки
-[<b>x-online.pro</b>](https://x-online.pro) — Лендинг для Альфа-теста<br>
+[<b>x-online.pro</b>](https://x-online.pro) — Лендинг для Alpha теста<br>
 [<b>wallet.x-online.pro</b>](https://wallet.x-online.pro) — Кошелёк с отдельным функционалом под MVP<br>
 
 [<b>server.x-online.pro</b>](https://server.x-online.pro) — Сервер для всего MVP c PostgreSQL Database и вебсокетами
