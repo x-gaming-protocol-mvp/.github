@@ -2,7 +2,7 @@
 
 ## 🔗 Ссылки
 [<b>x-online.pro</b>](https://x-online.pro) — Лендинг для Alpha теста<br>
-[<b>wiki.x-online.pro</b>](https://wiki.x-online.pro) — База знаний<br>
+[<b>wiki.x-online.pro</b>](https://wiki.x-online.pro) — База знаний X Online<br>
 [<b>wallet.x-online.pro</b>](https://wallet.x-online.pro) — Кошелёк с отдельным функционалом под MVP<br>
 
 [<b>server.x-online.pro</b>](https://server.x-online.pro) — Сервер для всего MVP c PostgreSQL Database и вебсокетами
